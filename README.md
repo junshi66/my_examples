@@ -1,1 +1,1 @@
-# my_examples
+# This repository will contain examples for my coding .
